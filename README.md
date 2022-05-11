@@ -1,17 +1,10 @@
+  # Bem vindo ao meu github!
+-  Sou desenvolvedor backend Node.js/Typescript.
+-  Sou de Recife/Pernambuco e amo viajar! E viajar de moto então? Bom demais!:sunglasses: 
+-  Atualmente, no segundo período de Ciências da Computação e contando!
+-  Afiando os conhecimentos em Javascript com a certificação de 300H da FFC.
 
 
-- 🔭 Desenvolvedor Node.js/Typescript 
--  Meu sonho e objetivo atual é trabalhar na área de desenvolvimento. 
--  Fale comigo sobre Javascript... e motos! 🏍️
--  An eternal student and passionate developer.
-
-<div align="center">
-  <a href="https://github.com/luan-lima1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan-lima1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-lima1&layout=compact&langs_count=7&theme=dark"/>
-    
-</div>
-  
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
