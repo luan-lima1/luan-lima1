@@ -1,8 +1,7 @@
   # Bem vindo ao meu github!
--  Sou desenvolvedor backend Node.js/Typescript.
+-  Sou desenvolvedor backend Java/Node.js/Typescript.
 -  Sou de Recife/Pernambuco e amo viajar! E viajar de moto então? Bom demais!:sunglasses: 
 -  Atualmente, no segundo período de Ciências da Computação e contando!
--  Afiando os conhecimentos em Javascript com a certificação de 300H da FFC.
 
 
  <div style="display: inline_block"><br>
