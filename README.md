@@ -1,7 +1,7 @@
   # Bem vindo ao meu github!
--  Sou desenvolvedor backend Java/Node.js/Typescript.
+-  Desenvolvedor backend Node.js| Typescript | Java.
 -  Sou de Recife/Pernambuco e amo viajar! E viajar de moto então? Bom demais!:sunglasses: 
--  Atualmente, no segundo período de Ciências da Computação e contando!
+-  Atualmente, cursando Ciências da Computação e contando!
 
 
  <div style="display: inline_block"><br>
