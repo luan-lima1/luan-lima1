@@ -1,4 +1,4 @@
-  # Bem vindo ao meu github!
+  # You here? Take a look around! :sunglasses: 
 -  Desenvolvedor backend Node.js| Typescript | Java.
 -  Sou de Recife/Pernambuco e amo viajar! E viajar de moto então? Bom demais!:sunglasses: 
 -  Atualmente, cursando Ciências da Computação e contando!
