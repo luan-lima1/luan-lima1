@@ -1,7 +1,7 @@
   # Olá, seja bem vindo(a).
--  Desenvolvedor backend Node.js | Typescript | Java.
+-  Desenvolvedor backend Node.js & Typescript
 -  Sou de Recife/Pernambuco e amo viajar! E viajar de moto então? Bom demais!
--  Atualmente, cursando Ciências da Computação e contando!
+-  Atualmente, cursando Ciências da Computação e concluindo o Curso de Node.js da Potência Tech/Ifood!
 
 
  <div style="display: inline_block"><br>
