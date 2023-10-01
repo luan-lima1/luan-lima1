@@ -1,4 +1,4 @@
-  # You here? Take a look around! :sunglasses: 
+  # Olá, seja bem vindo(a).
 -  Desenvolvedor backend Node.js | Typescript | Java.
 -  Sou de Recife/Pernambuco e amo viajar! E viajar de moto então? Bom demais!
 -  Atualmente, cursando Ciências da Computação e contando!
