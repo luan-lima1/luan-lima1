@@ -1,8 +1,8 @@
   # Olá, seja bem vindo(a).
--  Desenvolvedor backend Node.js & Typescript
+-  Sou Desenvolvedor Backend! 🇧🇷
 -  Sou de Recife/Pernambuco e amo viajar! E viajar de moto então? Bom demais!
 -  Atualmente cursando Análise e Desenvolvimento de Sistemas!
-
+-  I love Synthwave ❤️
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
